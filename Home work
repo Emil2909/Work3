@@ -28,3 +28,7 @@ git log
  '''sh
  git checkout
  '''
+
+# Добавим как добавлять артинки в Markdown
+Это енот
+![Енот](C:\work2\1234.png)
