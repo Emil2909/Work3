@@ -28,3 +28,5 @@ del <fielname>
 '''sh
 rm <filename>
 '''
+
+Добавили текст через web браузер
